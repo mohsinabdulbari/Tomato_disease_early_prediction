@@ -1,0 +1,6 @@
+data/
+static/*.jpg
+__pycache__/
+*.pt
+*.pth
+.DS_Store
